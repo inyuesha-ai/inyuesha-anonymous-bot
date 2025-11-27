@@ -23,6 +23,6 @@ def index():
 
 if __name__ == "__main__":
     bot.remove_webhook()
-    bot.set_webhook(url="هنا_تحطين_رابط_الرايلواي_حقك" + TOKEN)
+    bot.set_webhook(url="https://lh3.googleusercontent.com/a/ACg8ocIKHjTGC5U3Uiyz8PlrYsxxr84M6leQQac6uMsf-OeJqcyqPg=s96-c" + TOKEN)
     app.run(host="0.0.0.0", port=8080)
 
